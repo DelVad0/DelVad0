@@ -1,6 +1,6 @@
 ## Hi there IA enthusiasts👋
 
-### I am a graduate in Python for Data Science and Web development. I am passionate about the world of programming with Python, and I am proficient in using this language to solve problems and perform data analysis. 🧑‍💻
+### I'm a Python Student for Data Science and Web development. I am passionate about the world of programming with Python, and I am proficient in using this language to solve problems and perform data analysis. 🧑‍💻
 
 I am familiar with the major Python libraries and tools for Data Science and Machine Learning, such as NumPy, Pandas, Matplotlib, Seaborn, and Sklearn, and I also have experience using Python for web application development, using Django or Flask. ✅
 
